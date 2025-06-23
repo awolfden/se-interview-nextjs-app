@@ -45,7 +45,7 @@ You will need a [WorkOS account](https://dashboard.workos.com/signup) to complet
 
 Use the [WorkOS documentation](https://workos.com/docs) as a guide for completing this challenge
 
-### 3. Implement the User Management Widget
+### Implement the User Management Widget
 
 Create a new page or component that implements the `UsersManagement` widget. You can reference the [WorkOS Widgets documentation](https://workos.com/docs/user-management/widgets/user-management) for implementation details.
 
