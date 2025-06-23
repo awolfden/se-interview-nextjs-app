@@ -1,10 +1,10 @@
-# Take-Home Challenge: Team Management Widget Implementation
+# Take-Home Challenge: User Management Widget Implementation
 
-This is a Next.js application that demonstrates authentication with AuthKit and the WorkOS Node SDK. Your challenge is to implement the **Team Management Widget** from WorkOS to allow users to manage team members within their organization.
+This is a Next.js application that demonstrates authentication with AuthKit and the WorkOS Node SDK. Your challenge is to implement the **User Management Widget** from WorkOS to allow users to manage team members within their organization.
 
 ## Challenge Overview
 
-You will be implementing the [WorkOS Team Management Widget](https://workos.com/docs/user-management/widgets/user-management) to provide a complete user management interface. This widget allows organization admins to:
+You will be implementing the [WorkOS User Management Widget](https://workos.com/docs/user-management/widgets/user-management) to provide a complete user management interface. This widget allows organization admins to:
 
 - Invite new users to the organization
 - Remove users from the organization
@@ -45,7 +45,7 @@ You will need a [WorkOS account](https://dashboard.workos.com/signup) to complet
 
 Use the [WorkOS documentation](https://workos.com/docs) as a guide for completing this challenge
 
-### 3. Implement the Team Management Widget
+### 3. Implement the User Management Widget
 
 Create a new page or component that implements the `UsersManagement` widget. You can reference the [WorkOS Widgets documentation](https://workos.com/docs/user-management/widgets/user-management) for implementation details.
 
@@ -61,7 +61,7 @@ Your implementation will be evaluated on:
 
 ## Bonus
 
-- Implement other widgets
+- Implement additional widgets on top of the User Management widget
 
 ## Resources
 
