@@ -13,6 +13,8 @@ You will be implementing the [WorkOS User Management Widget](https://workos.com/
 
 ## Prerequisites
 
+Create a fork of this repository to use for this challenge.
+
 You will need a [WorkOS account](https://dashboard.workos.com/signup) to complete this challenge.
 
 ## Setup Instructions
@@ -43,11 +45,20 @@ You will need a [WorkOS account](https://dashboard.workos.com/signup) to complet
 
 ## Implementation
 
-Use the [WorkOS documentation](https://workos.com/docs) as a guide for completing this challenge
+Use the [WorkOS documentation](https://workos.com/docs) as a guide for completing this challenge.
 
-### Implement the User Management Widget
+### Your Task
 
-Create a new page or component that implements the `UsersManagement` widget. You can reference the [WorkOS Widgets documentation](https://workos.com/docs/user-management/widgets/user-management) for implementation details.
+Implement the User Management Widget in this application. You'll need to:
+
+1. Research the required dependencies and installation steps
+2. Create a new page or component that implements the `UsersManagement` widget
+3. Handle authentication and permissions appropriately
+4. Ensure the widget integrates well with the existing application
+
+### Submission
+
+Provide your forked repository along with any instructions necessary to run the completed application.
 
 ## Evaluation Criteria
 
