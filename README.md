@@ -8,7 +8,7 @@ You will be implementing the [WorkOS User Management Widget](https://workos.com/
 
 - Invite new users to the organization
 - Remove users from the organization
-- Change user roles and permissions
+- Manage user roles and permissions
 - View all organization members
 
 ## Prerequisites
@@ -51,14 +51,18 @@ Use the [WorkOS documentation](https://workos.com/docs) as a guide for completin
 
 Implement the User Management Widget in this application. You'll need to:
 
-1. Research the required dependencies and installation steps
+1. Research and install the required dependencies for the WorkOS Widgets
 2. Create a new page or component that implements the `UsersManagement` widget
-3. Handle authentication and permissions appropriately
+3. Handle authentication properly - you'll need to generate a widget token on the backend
 4. Ensure the widget integrates well with the existing application
 
 ### Submission
 
-Provide your forked repository along with any instructions necessary to run the completed application.
+Deploy the finished application using Vercel and provide:
+
+- The deployed application URL
+- Login credentials to access the app
+- Any additional setup instructions if needed
 
 ## Evaluation Criteria
 
